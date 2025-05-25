@@ -54,7 +54,7 @@
 
 ### 👨‍💻 個人專案 | Side Projects
 - [auto-classify-files](https://github.com/ch840120/auto-classify-files)：自動分類檔案工具
-- [rdp-autologin](https://github.com/ch840120/rdp-autologin)：Windows 遠端自動登入
+- [rdp-autologin](https://github.com/ch840120/rdp-autologin)：Windows遠端自動登入
 
 ### 📖 教學 | Tutorials
 - [docker-tutorial](https://github.com/ch840120/docker-tutorial)：Docker 教學
