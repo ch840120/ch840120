@@ -53,9 +53,12 @@
 ## 📦 倉庫分類 | Repository Categories
 
 ### 👨‍💻 個人專案 | Side Projects
-- [auto-classify-files](https://github.com/ch840120/auto-classify-files)：自動分類檔案工具
-- [rdp-autologin](https://github.com/ch840120/rdp-autologin)：Windows遠端自動登入
+- [auto-classify-files](https://github.com/ch840120/auto-classify-files)：自動分類檔案工具。
+- [rdp-autologin](https://github.com/ch840120/rdp-autologin)：Windows 遠端自動登入。
 
 ### 📖 教學 | Tutorials
-- [docker-tutorial](https://github.com/ch840120/docker-tutorial)：Docker教學
-- [generate-ssh-key-tutorial](https://github.com/ch840120/generate-ssh-key-tutorial)：創建SSH-Key教學
+- [docker-tutorial](https://github.com/ch840120/docker-tutorial)：Docker 教學。
+- [generate-ssh-key-tutorial](https://github.com/ch840120/generate-ssh-key-tutorial)：創建 SSH-Key 教學。
+
+### ⚙️ 設定與配置 | Configuration
+- [github-repo-auto-clone](https://github.com/ch840120/github-repo-auto-clone)：自動抓取自己GitHub上所有的Repository的小工具。
