@@ -58,4 +58,4 @@
 
 ### 📖 教學 | Tutorials
 - [docker-tutorial](https://github.com/ch840120/docker-tutorial)：Docker 教學
-- [generate-ssh-key-tutorial](https://github.com/ch840120/generate-ssh-key-tutorial)：創建 GitHub SSH Key 教學
+- [generate-ssh-key-tutorial](https://github.com/ch840120/generate-ssh-key-tutorial)：創建SSH-Key教學
