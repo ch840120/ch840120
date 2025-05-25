@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, 我是 Abel</h1>
 <h3 align="center">來自台灣的後端開發人員</h3>
 
-- 🔭 目前專注於：**C# 網站後端開發**
+- 🔭 目前專注於：**C#後端開發**
 - 🌱 正在學習：**Python**
 
 ## 🛠️ 技能與工具 | Skills & Tools
@@ -57,5 +57,5 @@
 - [rdp-autologin](https://github.com/ch840120/rdp-autologin)：Windows遠端自動登入
 
 ### 📖 教學 | Tutorials
-- [docker-tutorial](https://github.com/ch840120/docker-tutorial)：Docker 教學
+- [docker-tutorial](https://github.com/ch840120/docker-tutorial)：Docker教學
 - [generate-ssh-key-tutorial](https://github.com/ch840120/generate-ssh-key-tutorial)：創建SSH-Key教學
