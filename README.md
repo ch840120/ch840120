@@ -61,4 +61,4 @@
 - [generate-ssh-key-tutorial](https://github.com/ch840120/generate-ssh-key-tutorial)：創建 SSH-Key 教學。
 
 ### ⚙️ 設定與配置 | Configuration
-- [github-repo-auto-clone](https://github.com/ch840120/github-repo-auto-clone)：自動抓取自己GitHub上所有的Repository的工具，方便本地開發。
+- [github-repo-auto-clone](https://github.com/ch840120/github-repo-auto-clone)：自動抓取自己GitHub上所有的Repository的工具，方便開發。
