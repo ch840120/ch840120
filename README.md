@@ -50,10 +50,12 @@
   </a>
 </p>
 
-## 👨‍💻  個人專案 | Side Projects
+## 📦 倉庫分類 | Repository Categories
+
+### 👨‍💻 個人專案 | Side Projects
 - [auto-classify-files](https://github.com/ch840120/auto-classify-files)：自動分類檔案工具
 - [rdp-autologin](https://github.com/ch840120/rdp-autologin)：Windows 遠端自動登入
 
-## 📒 筆記＆教學 | Notes & Tutorials
-- [docker-notes](https://github.com/ch840120/docker-notes)：Docker 筆記
-- [ssh-key-notes](https://github.com/ch840120/ssh-key-notes)：SSH Key 筆記
+### 📒 筆記＆教學 | Notes & Tutorials
+- [docker-tutorial](https://github.com/ch840120/docker-tutorial)：Docker 教學
+- [generate-ssh-key-tutorial](https://github.com/ch840120/generate-ssh-key-tutorial)：創建 GitHub SSH Key 教學
