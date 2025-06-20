@@ -53,6 +53,8 @@
 ## 📦 倉庫分類 | Repository Categories
 
 ### 👨‍💻 個人專案 | Side Projects
+#### ⚙️ DevOps
+- [jenkins-python-cicd-demo](https://github.com/ch840120/jenkins-python-cicd-demo/)：示範如何使用 Jenkins CI/CD、Docker Registry 與自動化部署的 FastAPI Python 專案範例。
 #### 🧰 其他 | Others
 - [auto-classify-files](https://github.com/ch840120/auto-classify-files)：自動分類檔案工具。
 - [rdp-autologin](https://github.com/ch840120/rdp-autologin)：Windows 遠端自動登入。
