@@ -2,7 +2,6 @@
 <h3 align="center">來自台灣的後端開發人員</h3>
 
 - 🔭 目前專注於：**C#後端開發**
-- 🌱 正在學習：**Python**
 
 ## 🛠️ 技能與工具 | Skills & Tools
 <p align="left">
@@ -53,6 +52,7 @@
 ## 📦 倉庫分類 | Repository Categories
 
 ### 👨‍💻 個人專案 | Side Projects
+- [CloudFileServer](https://github.com/ch840120/CloudFileServer/)：雲端檔案管理系統。
 #### ⚙️ DevOps
 - [jenkins-python-cicd-demo](https://github.com/ch840120/jenkins-python-cicd-demo/)：示範如何使用 Jenkins CI/CD、Docker Registry 與自動化部署的 FastAPI Python 專案範例。
 #### 🧰 其他 | Others
